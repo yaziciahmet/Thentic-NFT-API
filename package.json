@@ -1,0 +1,11 @@
+{
+  "name": "thentic",
+  "version": "1.0.0",
+  "description": "Blockchain App Using Thentic API",
+  "main": "src/app.js",
+  "author": "yaziciahmet",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
+}
