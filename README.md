@@ -17,6 +17,6 @@ An application to create, mint, and transfer NFT's using Thentic API!
 - `transfer-nft` -> Transfer an NFT. Required  `--contract <contractAddress> --nftId <id> --from <ownerAddress> --to <transferAddress>`
 
 ## Example usage
-`node src/app.js get-contracts`
-`node src/app.js create-contract --name Monkeys --shortName MON`
-`node src/app.js mint-nft --contract 0x... --nftId 0 --nftData BlueMonkey --to 0x...`
+- `node src/app.js get-contracts`
+- `node src/app.js create-contract --name Monkeys --shortName MON`
+- `node src/app.js mint-nft --contract 0x... --nftId 0 --nftData BlueMonkey --to 0x...`
